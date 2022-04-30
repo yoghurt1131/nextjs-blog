@@ -4,7 +4,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Image from 'next/image'
 
-const name = 'Your Name'
+const name = 'yoghurt1131'
 export const siteTitle = 'Next.js Sample Website'
 
 export default function Layout({ children, home }) {
